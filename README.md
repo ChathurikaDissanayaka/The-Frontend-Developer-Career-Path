@@ -15,3 +15,4 @@ The path is fully self-paced, so you can choose whether you’d like to do it pa
 - [Accessible Development](https://github.com/ChathurikaDissanayaka/Accessible-Development)
 - [Essential CSS concepts](https://github.com/ChathurikaDissanayaka/Essential-CSS-concepts)
 - [Essential JavaScript Concepts](https://github.com/ChathurikaDissanayaka/Essential-JavaScript-Concepts)
+- [Responsive Design](https://github.com/ChathurikaDissanayaka/Responsive-Design)
