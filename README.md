@@ -1,4 +1,4 @@
-# The-Frontend-Developer-Career-Path
+# The Frontend Developer Career Path
 
 This career path aims to turn you into a job-ready frontend developer in less than six months.
 
