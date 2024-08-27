@@ -10,8 +10,8 @@ You'll also build more than a dozen portfolio projects, and solve 100s of intera
 
 The path is fully self-paced, so you can choose whether you’d like to do it part-time or full-time.
 
-- [HTML and CSS](https://github.com/ChathurikaDissanayaka/scrimba-html)
-- [JavaScript](https://github.com/ChathurikaDissanayaka/Scrimba-JS)
+- [Web Dev Basics](https://github.com/ChathurikaDissanayaka/scrimba-html)
+- [Making Websites Interactive](https://github.com/ChathurikaDissanayaka/Scrimba-JS)
 - [Accessible Development](https://github.com/ChathurikaDissanayaka/Accessible-Development)
 - [Essential CSS concepts](https://github.com/ChathurikaDissanayaka/Essential-CSS-concepts)
 - [Essential JavaScript Concepts](https://github.com/ChathurikaDissanayaka/Essential-JavaScript-Concepts)
