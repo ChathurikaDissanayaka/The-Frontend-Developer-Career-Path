@@ -8,6 +8,8 @@ Learners will gain a well-rounded skill set, balancing modern tools like React a
 
 The path is fully self-paced, allowing for both part-time and full-time study.
 
+## Project Repos
+
 - [Web Dev Basics](https://github.com/ChathurikaDissanayaka/scrimba-html)
 - [Making Websites Interactive](https://github.com/ChathurikaDissanayaka/Scrimba-JS)
 - [Accessible Development](https://github.com/ChathurikaDissanayaka/Accessible-Development)
