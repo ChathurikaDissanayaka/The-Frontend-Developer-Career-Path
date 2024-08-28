@@ -1,14 +1,12 @@
 # The Frontend Developer Career Path
 
-This career path aims to turn you into a job-ready frontend developer in less than six months.
+This career path is designed to turn learners into job-ready frontend developers in less than six months.
 
-The curriculum is curated by Mozilla MDN to ensure that it always aligns with the latest industry standards and best practices for modern frontend development, as outlined in their MDN Curriculum. It is based on extensive research into what new hires need to know to succeed in the industry.
+Curated by Mozilla MDN, the curriculum aligns with the latest industry standards and best practices for modern frontend development, as outlined in the MDN Curriculum. It is based on extensive research into the essential skills and knowledge new hires need to succeed in the industry.
 
-You’ll gain a well-rounded skill set balanced between modern tooling such as React and GitHub, and evergreen best practices such as semantic HTML, JavaScript fundamentals, and accessibility.
+Learners will gain a well-rounded skill set, balancing modern tools like React and GitHub with evergreen best practices, including semantic HTML, JavaScript fundamentals, and accessibility. They will also build more than a dozen portfolio projects and tackle hundreds of interactive coding challenges to solidify their understanding.
 
-You'll also build more than a dozen portfolio projects, and solve 100s of interactive coding challenges.
-
-The path is fully self-paced, so you can choose whether you’d like to do it part-time or full-time.
+The path is fully self-paced, allowing for both part-time and full-time study.
 
 - [Web Dev Basics](https://github.com/ChathurikaDissanayaka/scrimba-html)
 - [Making Websites Interactive](https://github.com/ChathurikaDissanayaka/Scrimba-JS)
