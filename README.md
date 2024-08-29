@@ -8,6 +8,8 @@ Learners will gain a well-rounded skill set, balancing modern tools like React a
 
 The path is fully self-paced, allowing for both part-time and full-time study.
 
+[Course Link](https://v2.scrimba.com/the-frontend-developer-career-path-c0j)
+
 ## Project Repos
 
 - [Web Dev Basics](https://github.com/ChathurikaDissanayaka/scrimba-html)
