@@ -20,4 +20,4 @@ The path is fully self-paced, allowing for both part-time and full-time study.
 - [Responsive Design](https://github.com/ChathurikaDissanayaka/Responsive-Design)
 - [Working With Apis](https://github.com/ChathurikaDissanayaka/working-with-apis)
 - [user Interface Design](https://github.com/ChathurikaDissanayaka/user-interface-design)
-- [React Modules](https://github.com/ChathurikaDissanayaka/react-scrimba)
+- [React Basics](https://github.com/ChathurikaDissanayaka/react-scrimba/tree/main/react-basics)
